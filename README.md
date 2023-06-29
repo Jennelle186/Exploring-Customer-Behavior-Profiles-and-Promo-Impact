@@ -40,7 +40,8 @@ This repository contains code for analyzing customer, order, and vendor activiti
   Not Blacklisted - Number of unique customers who are not blacklisted
 
 
-#Analysis
+# Analysis
+
 The analysis covers the following steps:
 
 1. Visualizing the customer, order, and vendor  activity per month by the device using a line plot.
@@ -48,14 +49,16 @@ The analysis covers the following steps:
 3. Determining the top 3 devices used by customers and creating a pie chart to represent their usage percentages.
 4. Calculating the number of blacklisted and not blacklisted customers and determining their percentages.
 
-#Usage
-Usage
+# Usage
+
+
 To run the analysis, follow these steps:
 
 1. Ensure you have the required dependencies installed (e.g., pandas, matplotlib).
 2. Import the necessary libraries and load the dataset.
 3. Apply the provided code snippets to perform the desired analysis and visualize the results.
 
-#Results
+# Results
+
 The analysis provides insights into customer, vendor, and order activity in the event of a promo. The visualizations generated include line plots, bar graphs, and pie charts, which help in understanding trends and proportions within the dataset. 
   
